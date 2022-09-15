@@ -1,6 +1,6 @@
 # ActiveRecord database transactions
 
-A presentation on Postgres transactions, and how to use them with ActiveRecord.
+A presentation on Postgres and some basic performance statistics (more of an excuse to play with Slides)
 
 ## Setup
 
